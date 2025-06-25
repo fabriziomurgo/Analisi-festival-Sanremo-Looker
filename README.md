@@ -17,3 +17,5 @@ Un report interattivo che consente di esplorare in modo flessibile:
 - la distribuzione geografica dei protagonisti del Festival
 - le tendenze televisive nel tempo
 - l’evoluzione anagrafica degli artisti coinvolti.
+
+[Visualizza il progetto](https://lookerstudio.google.com/u/0/reporting/32460f88-0f4d-48a8-bc12-ddf7e58dc3be/page/p_g3t2sc3dsd)
