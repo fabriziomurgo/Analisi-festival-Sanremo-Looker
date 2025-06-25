@@ -1,5 +1,6 @@
-🎤 Festival di Sanremo – Analisi Storica 1951–2023
+# Esercitazione finale Looker Studio
 
+🎤 Festival di Sanremo – Analisi Storica 1951–2023
 Questo progetto analitico è dedicato allo studio dell’evoluzione del Festival di Sanremo lungo l’arco temporale che va dal 1951 al 2023. 
 L’obiettivo è stato quello di esplorare e visualizzare le dinamiche territoriali, demografiche e mediatiche.
 
