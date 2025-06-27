@@ -20,3 +20,28 @@ Un report interattivo che consente di esplorare in modo flessibile:
 - l’evoluzione anagrafica degli artisti coinvolti.
 
 [Visualizza il progetto](https://lookerstudio.google.com/u/0/reporting/32460f88-0f4d-48a8-bc12-ddf7e58dc3be/page/p_g3t2sc3dsd)
+
+
+
+# Final Looker Studio Project
+
+🎤 Historical Analysis of the Sanremo Festival (1951–2023)
+This analytical project is dedicated to studying the evolution of the Sanremo Music Festival from 1951 to 2023.
+The goal was to explore and visualize territorial, demographic, and media-related dynamics.
+
+📌 Analysis Objectives
+- Examine the geographic origin of hosts and winners to identify potential regional concentrations
+- Analyze the historical trend of TV audience and share, highlighting record years and periods of decline
+- Study the average age of winners by edition.
+
+🛠 Tools and Process
+- Data cleaning and preparation: performed using **Microsoft Excel** and **Power Query** (formulas, filters, transformations)
+- Interactive visualization and analysis: created with **Looker Studio**, featuring explorable dashboards and dynamic filters by time range, region, and other attributes.
+- 
+📈 Final Output An interactive report that allows flexible exploration of:
+- The geographic distribution of Festival participants
+- Television trends over time
+- The age evolution of the artists involved.
+
+[View the project](https://lookerstudio.google.com/u/0/reporting/32460f88-0f4d-48a8-bc12-ddf7e58dc3be/page/p_g3t2sc3dsd)
+
