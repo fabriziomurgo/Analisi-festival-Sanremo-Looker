@@ -37,7 +37,7 @@ The goal was to explore and visualize territorial, demographic, and media-relate
 🛠 Tools and Process
 - Data cleaning and preparation: performed using **Microsoft Excel** and **Power Query** (formulas, filters, transformations)
 - Interactive visualization and analysis: created with **Looker Studio**, featuring explorable dashboards and dynamic filters by time range, region, and other attributes.
-- 
+
 📈 Final Output An interactive report that allows flexible exploration of:
 - The geographic distribution of Festival participants
 - Television trends over time
